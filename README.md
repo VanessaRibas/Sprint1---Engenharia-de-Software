@@ -84,7 +84,9 @@ Escolhido por possuir forte integração com Inteligência Artificial e Visão C
 
 ## YOLOv8m
 
-Modelo eficiente para detecção em tempo real, com alta velocidade e precisão.
+A escolha do modelo (Yolov8m) para detecção de objetos em tempo real, oferece alta velocidade e boa precisão na identificação de EPIs. Sendo motivada pela sua facilidade de implementação e pelo bom desempenho mesmo em computadores desktop com hardware mais simples ou menos recentes.
+
+Além disso, versões anteriores do YOLO possuem menor custo computacional, reduzindo o tempo de treinamento e processamento das imagens. Isso permite otimizar a precisão do modelo sem comprometer significativamente o desempenho da aplicação, o armazenamento disponível e os recursos dos equipamentos utilizados no projeto.
 
 ## OpenCV
 
