@@ -81,7 +81,7 @@ Responsável pelo monitoramento dos colaboradores e análise de alertas.
 
 ---
 
-# ⚙️ Tecnologias Selecionadas
+# Tecnologias Selecionadas
 
 | Tecnologia             | Finalidade                       |
 | ---------------------- | -------------------------------- |
