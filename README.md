@@ -64,15 +64,32 @@ Responsável pelo monitoramento dos colaboradores e análise de alertas.
 
 ---
 
+# Diagramas UML
+
+## Diagrama de Casos de Uso
+
+![Texto Alternativo](https://github.com/VanessaRibas/Sprint1---Engenharia-de-Software/tree/main/assets/Diagrama_de_Casos_de_Uso.jpg)
+
+## Diagrama de Atividade
+
+![Texto Alternativo](https://github.com/VanessaRibas/Sprint1---Engenharia-de-Software/tree/main/assets/Diagrama_de_Classes.drawio.png)
+
+
+## Diagrama de Classes
+
+![Texto Alternativo](https://github.com/VanessaRibas/Sprint1---Engenharia-de-Software/tree/main/assets/Diagrama_de_Atividade.drawio.png)
+
+---
+
 # ⚙️ Tecnologias Selecionadas
 
 | Tecnologia             | Finalidade                       |
 | ---------------------- | -------------------------------- |
 | Python                 | Desenvolvimento da IA e back-end |
-| YOLOv8m                 | Detecção de objetos e EPIs       |
+| YOLOv8m                | Detecção de objetos e EPIs       |
 | OpenCV                 | Processamento de imagens         |
 | MySQL                  | Banco de dados                   |
-| React Native | Interface web                    |
+| React Native           | Interface web                    |
 
 ---
 
